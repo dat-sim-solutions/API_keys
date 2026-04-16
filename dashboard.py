@@ -8,7 +8,7 @@ st.write("Secure API Access for Geophysical Calculations")
 
 # 1. Setup the Connection Info
 # Replace this with your actual Render URL!
-API_URL = "https://api-keys-izl8.onrender.com/multiply"
+API_URL = "https://api-keys-izl8.onrender.com"
 
 # 2. Sidebar for Authentication
 st.sidebar.header("Authentication")
