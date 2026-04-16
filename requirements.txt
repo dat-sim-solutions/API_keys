@@ -1,5 +1,8 @@
 fastapi
-uvicorn[standard]  
+uvicorn[standard]
 sqlalchemy
 psycopg2-binary
 pandas
+streamlit
+
+requests
